@@ -7,3 +7,10 @@
     background-color: #f8f8f8;
     border-color: #e7e7e7;
 }*/*/
+
+header {
+    float: left;
+    width: 100%;
+  background-image:url('https://image.shutterstock.com/z/stock-photo-golf-ball-isolated-on-white-391641406.jpg');
+  }
+
